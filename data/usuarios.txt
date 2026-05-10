@@ -1,0 +1,5 @@
+Administrador;admin;admin;admin
+Cliente;cliente;cliente;cliente
+Mesero;mesero;mesero;mesero;1
+Cocinero;cocinero;cocinero;cocinero;2
+Cliente;admin1;admin1;pruebacliente1

@@ -1,0 +1,2 @@
+1;juego1;genero;facil;1;1;false
+2;juego2;genero;facil;1;1;false

@@ -1,0 +1,3 @@
+ProductoCafeteria;1;producto1;1.0;1;categoria
+ProductoCafeteria;2;producto2;1.0;1;categoria
+JuegoVenta;3;juego;1.0;1;editorial;1
